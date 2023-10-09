@@ -5,28 +5,56 @@
     }
 header{
     background-color:#AED8E6;
-    height: 90px;
+    height: 100px;
     width: 100%;
 }
-.margin{
-    margin: 0 auto;
-}
-nav{
+
+.navbar{
     height: 50%;
-    width: 70%;
-    background-color:#DAA521 ;
-   
+    width: 60%;
+    background-color:#DAA521 ; 
 }
-.container{
-    height: 500px;
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.first-container{
+    height: 600px;
     width: 100%;
     background-color: #03008B;
 }
-.centrale{
-    height: 70%;
-    width: 70%;
+.central{
+    height: 80%;
+    width: 40%;
     background-color: #EE81EE;
 }
 .border{
     border-style: dashed;
+}
+.dual-box{ 
+    height: 600px;
+
+}
+.first-box{
+    height: 80%;
+    width: 30%;
+    background-color: #1D91FF ;
+}
+.second-box{
+    height: 80%;
+    width: 20%;
+    background-color:#FEC0CB;
+}
+.grey{
+    background-color: #D3D3D3;
+}
+.second-container{
+    height: 1200px;
+    width: 100%;
+}
+.square{
+    height: 90%;
+    width: 60%;
+    background-color: #238B21;
 }
