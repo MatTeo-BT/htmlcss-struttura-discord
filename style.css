@@ -8,7 +8,6 @@ header{
     height: 100px;
     width: 100%;
 }
-
 .navbar{
     height: 50%;
     width: 60%;
@@ -50,11 +49,50 @@ header{
     background-color: #D3D3D3;
 }
 .second-container{
-    height: 1200px;
+    height: 1100px;
     width: 100%;
 }
 .square{
     height: 90%;
-    width: 60%;
+    width: 50%;
     background-color: #238B21;
+}
+.third-container{
+    height: 800px;
+    width: 100%;
+    background-color: #23272A;
+}
+.rectangle{
+    height: 90%;
+    width: 15%;
+    background-color: #EF8080;
+}
+.column{
+    height: 90%;
+    width: 9%;
+    background-color: #22B2AA;
+}
+.border-white{
+    border-style: dashed;
+    color: white;
+}
+hr{
+    background-color: #D3D3D3;
+}
+footer{
+    background-color: #23272A;
+    height: 100px;
+    width: 100%;
+}
+.footer-container{
+    height: 70%;
+    width: 50%;
+    background-color: #7FFFD3;
+}
+.flex-text{
+    display: flex;
+    justify-content: space-between;
+   
+    background-color: #FEC0CB;
+    height: 60%;
 }
