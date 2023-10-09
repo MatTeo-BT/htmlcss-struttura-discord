@@ -13,6 +13,12 @@ header{
     width: 60%;
     background-color:#DAA521 ; 
 }
+.ul-header{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+
+}
 .flex-container{
     display: flex;
     justify-content: center;
@@ -89,10 +95,15 @@ footer{
     width: 50%;
     background-color: #7FFFD3;
 }
-.flex-text{
+
+.ul-footer{
     display: flex;
     justify-content: space-between;
-   
+    list-style: none;
+    height: 20%;
     background-color: #FEC0CB;
-    height: 60%;
+}
+li{
+    height: 20%;
+    
 }
