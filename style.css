@@ -1,0 +1,32 @@
+*{
+    Margin:0;
+    Padding:0;
+    box-sizing: border-box;
+    }
+header{
+    background-color:#AED8E6;
+    height: 90px;
+    width: 100%;
+}
+.margin{
+    margin: 0 auto;
+}
+nav{
+    height: 50%;
+    width: 70%;
+    background-color:#DAA521 ;
+   
+}
+.container{
+    height: 500px;
+    width: 100%;
+    background-color: #03008B;
+}
+.centrale{
+    height: 70%;
+    width: 70%;
+    background-color: #EE81EE;
+}
+.border{
+    border-style: dashed;
+}
